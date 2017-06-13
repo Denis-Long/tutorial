@@ -5,5 +5,5 @@ def to_the_power(x, y = 2):
     return result
 
 x = 10
-y = 3
+y = 6
 print("10 to the power of 3 is: ", to_the_power(x, y))
